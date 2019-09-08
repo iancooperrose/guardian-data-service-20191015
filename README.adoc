@@ -1,2 +1,18 @@
-# guardian-data-service
+= guardian-data-service
+Ian Cooper Rose <ian@houserose>
+:description: Do you know where your parents are?
+:doctype: article
+:backend: html5
+:icons: font
+:source-highlighter: highlightjs
+:imagesdir-src: images
+:data-uri:
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 3
+:numbered:
+:sectnums:
+:copyright: (C)2019 Ian Cooper Rose
+
 Do you know where your parents are?
