@@ -1,0 +1,24 @@
+spring:
+  data:
+    neo4j:
+#      uri: bolt://localhost
+      username: neo4j
+      password: G85Wj85y!
+  security:
+    user:
+      name: guardian
+      password: ward
+management:
+  info:
+    git:
+      mode: full
+  endpoints:
+    web:
+      exposure:
+        include: env,health,info,bus-refresh,refresh
+#app:
+#  minio: host=http://127.0.0.1:9000/
+#    access-key: 0G9XA52Y055Y774KP2PP
+#    secret-key: c30XNWV0c+vLVYf9+fEXfE1uxqYZNDJl8Z0Q7m8u
+
+
